@@ -1,0 +1,2 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Create auth token","Creating a new token to use for access to PUT and DELETE booking requests","SUCCESS","2022-01-11T21:05:34.629Z[Europe/London]","0.0","9.81"

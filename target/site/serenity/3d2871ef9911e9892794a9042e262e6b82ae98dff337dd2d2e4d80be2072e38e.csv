@@ -1,0 +1,7 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Create auth token","Creating a new token to use for access to PUT and DELETE booking requests","SUCCESS","2022-01-11T21:05:34.629Z[Europe/London]","0.0","9.81"
+"Booking crud test","Extracting a List of Ids before creating new record","SUCCESS","2022-01-11T21:05:46.524Z[Europe/London]","0.0","0.56"
+"Booking crud test","Creating a new booking using POST method","SUCCESS","2022-01-11T21:05:47.082Z[Europe/London]","0.0","0.64"
+"Booking crud test","Extracting ID and Finding the new booking by id to verify if it exists in the application","SUCCESS","2022-01-11T21:05:47.729Z[Europe/London]","0.0","1.16"
+"Booking crud test","Updating the newly created record with ID and verifying it by extracting id with updated firstname as query parameter","SUCCESS","2022-01-11T21:05:48.894Z[Europe/London]","0.0","1.74"
+"Booking crud test","Delete the newly created record with ID","SUCCESS","2022-01-11T21:05:50.631Z[Europe/London]","0.0","1.1"

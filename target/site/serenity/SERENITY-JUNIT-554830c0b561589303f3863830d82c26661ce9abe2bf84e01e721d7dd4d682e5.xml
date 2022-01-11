@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="0" name="com.herokuapp.booker.authinfo.CreateAuthToken" skipped="0" tests="1" time="9.81" timestamp="2022-01-11T21:05:34.629Z[Europe/London]"><testcase classname="com.herokuapp.booker.authinfo.CreateAuthToken" name="Creating a new token to use for access to PUT and DELETE booking requests"/></testsuite>
